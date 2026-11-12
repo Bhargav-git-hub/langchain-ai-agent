@@ -9,7 +9,7 @@ from tools import search_tool, wiki_tool, save_to_txt
 load_dotenv()
 
 
-#logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG)
 class ResearchResponse(BaseModel):
     topic: str
     summary: str
