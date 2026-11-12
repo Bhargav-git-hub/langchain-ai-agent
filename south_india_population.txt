@@ -1,0 +1,7 @@
+--- Research Output ---
+2026-11-11T22:47:50.412276
+
+Topic: South India population
+Summary: South India (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu, Telangana, plus UTs Puducherry and Lakshadweep) covers about 19.31% of India's area (635,780 km2) and roughly 20% of its population. Per the 2011 Census (figures recalled from general knowledge, not shown in the search snippets): Tamil Nadu ~72.1M, Karnataka ~61.1M, Andhra Pradesh ~49.5M, Telangana ~35.0M, Kerala ~33.4M, Puducherry ~1.25M, Lakshadweep ~0.06M, for a total of about 252-253 million. With India's population estimated at about 1.47 billion in 2026, 20% implies roughly 290 million today (rough estimate, not an official figure).
+Sources: https://en.wikipedia.org/wiki/South_India ; DuckDuckGo search results on India census/population
+Tools used: search_tool, wiki_tool, save_to_txt
