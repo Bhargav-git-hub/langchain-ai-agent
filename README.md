@@ -1,4 +1,4 @@
-# AI Agent Tutorial
+# AI Agent - LangChain
 
 An AI-powered research assistant built using **LangChain**, **Anthropic Claude**, **DuckDuckGo**, and **Wikipedia**. The agent researches user queries using external search tools, generates structured responses, and saves research results to a text file.
 
