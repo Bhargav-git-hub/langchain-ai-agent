@@ -1,0 +1,10 @@
+--- Research Output ---
+2026-11-12T16:12:54.243771
+
+Topic: Latest news on Nvidia
+
+Summary: Recent web search results indicate that Warhammer 40,000: Dawn of War IV is coming to GeForce NOW (NVIDIA's cloud gaming service), and NVIDIA DLSS 5 technology is coming to War Thunder. NVIDIA is also helping advance Korea's physical AI ecosystem, working with the country's industry leaders to apply accelerated computing, AI and simulation in manufacturing and engineering. Background: Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California, which develops GPUs and related technology. Note: the search results were brief snippets, so details such as dates, financials and product specifics were not verified.
+
+Sources: DuckDuckGo search results (NVIDIA news, Bloomberg, Google News topic pages); Wikipedia: Nvidia
+
+Tools used: search_tool, wiki_tool, save_to_txt
